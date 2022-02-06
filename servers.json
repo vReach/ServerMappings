@@ -12,7 +12,14 @@
         "addresses": [
             "nceahelp.com"
         ]
-    },    
+    },
+    {
+        "id": "warzone",
+        "name": "Warzone Network",
+        "addresses": [
+            "warzone.rip"
+        ]
+    },       
     {
         "id": "aetheriamc",
         "name": "AetheriaMC",
